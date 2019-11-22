@@ -1,9 +1,9 @@
-name: Claudia Api Build 
+name: Claudia Api Build
 
-on: 
+on:
   push:
-    branches: 
-      - test_branch
+    branches:
+      - master
 jobs:
   my-job:
     name: My Job
@@ -35,4 +35,4 @@ jobs:
     #     CI: true
     # - name: Display the path
     #     run: echo ${env:PATH}
-    #     shell: pwsh:  
+    #     shell: pwsh:
