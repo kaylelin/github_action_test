@@ -1,4 +1,4 @@
-name: Claudia Api Build
+name: kayle-test-workflow
 
 on:
   push:
